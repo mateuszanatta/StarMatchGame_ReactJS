@@ -1,6 +1,3 @@
-# StarMatchGame_ReactJS
-Created with CodeSandbox
-
 # The Star Match Game with ReactJS
 
 This app was created dugin the "React: Getting Started" on PluralSight.
